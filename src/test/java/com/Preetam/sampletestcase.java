@@ -8,7 +8,7 @@ import org.openqa.selenium.safari.SafariDriver;
 public class sampletestcase {
     public static void main(String[] args) {
         WebDriver pree = new FirefoxDriver();
-        pree.get("https://www.selenium.dev/documentation/webdriver/browsers/safari/");
+        pree.get("https://www.selenium.dev/documentation/webdriver/browsers/safari/sss");
 
     }
 }
