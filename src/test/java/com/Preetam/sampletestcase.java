@@ -17,6 +17,7 @@ public class sampletestcase {
       pree.navigate().forward();
       pree.navigate().refresh();
       pree.navigate().back();
+      pree.navigate().refresh();
 
 
     }
